@@ -17,12 +17,12 @@ Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tatiana-gutierrezr/dogmahumano.git
+   git clone https://github.com/tatiana-gutierrezr/dogmacentral.git
    ```
 
 2. Navega al directorio del proyecto:
    ```bash
-   cd dogmahumano
+   cd dogmacentral
    ```
 
 3. Instala las dependencias necesarias:
