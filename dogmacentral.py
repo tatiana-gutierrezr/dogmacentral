@@ -1,7 +1,7 @@
 """
 Autor: Tatiana Gutierrez Rodriguez
 Fecha: 20 de agosto de 2024
-Descripción: Script del dogma humano, este script convierte ADN a ARN y luego traduce ARN a proteínas.
+Descripción: Script del dogma central, este script convierte ADN a ARN y luego traduce ARN a proteínas.
 """
 
 import tkinter as tk
